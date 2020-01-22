@@ -1,4 +1,8 @@
-# dev-stuff
+# dev-toolkit
+
+a collection of tools, websites, apps, chrome extensions, etc, that are essential to my daily development/coding workflow
+
+[![HitCount](http://hits.dwyl.io/itrauco/dev-toolkit.svg)](http://hits.dwyl.io/itrauco/dev-toolkit)
 
 - [LastPass(Free Account Tier) ][5]the only free cross-platform synchronization password manager for all your devices, e.g. Chrome, MacOs, iOS, and Android
 
