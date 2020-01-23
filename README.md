@@ -48,15 +48,17 @@ a collection of tools, websites, apps, chrome extensions, etc, that are essentia
 
 - [Naereen's ][25]badass markdown badges for project README.md files
 
-- [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
-- [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
-- [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
-- [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
-- [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
-- [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
+[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
+[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
 - [markdown-toolbar-element ][26] and awesome tool [that works like the demo below](https://itrau.co/cskb00026-demo)
 ![DEMO](https://github.com/iTrauco/CodeSchoolKb/blob/master/assets/KbSRC/2020-01-13%2019.41.50.gif)
+
+- [GitHub Console Keyboard shortcuts ][27] great for speeding through browser based github tasks
 
 [//]: # (<--------------------------------------------->)
 [//]: # (<----------------REF-1-10--------------------->)
@@ -93,7 +95,7 @@ a collection of tools, websites, apps, chrome extensions, etc, that are essentia
 [24]: https://itrau.co/CSKb-emoji-comments
 [25]: https://itrau.co/badges
 [26]: https://itrau.co/kbref00026
-[27]:
+[27]: https://itrau.co/gh-keyboard
 [28]:
 [29]:
 [30]: 
